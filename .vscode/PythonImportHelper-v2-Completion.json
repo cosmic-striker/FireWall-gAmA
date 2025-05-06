@@ -1,0 +1,414 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "tarfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tarfile",
+        "description": "tarfile",
+        "detail": "tarfile",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "notification",
+        "importPath": "plyer",
+        "description": "plyer",
+        "isExtraImport": true,
+        "detail": "plyer",
+        "documentation": {}
+    },
+    {
+        "label": "notification",
+        "importPath": "plyer",
+        "description": "plyer",
+        "isExtraImport": true,
+        "detail": "plyer",
+        "documentation": {}
+    },
+    {
+        "label": "playsound",
+        "importPath": "playsound",
+        "description": "playsound",
+        "isExtraImport": true,
+        "detail": "playsound",
+        "documentation": {}
+    },
+    {
+        "label": "playsound",
+        "importPath": "playsound",
+        "description": "playsound",
+        "isExtraImport": true,
+        "detail": "playsound",
+        "documentation": {}
+    },
+    {
+        "label": "psutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psutil",
+        "description": "psutil",
+        "detail": "psutil",
+        "documentation": {}
+    },
+    {
+        "label": "pystray",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pystray",
+        "description": "pystray",
+        "detail": "pystray",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDraw",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDraw",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "sniff",
+        "importPath": "scapy.all",
+        "description": "scapy.all",
+        "isExtraImport": true,
+        "detail": "scapy.all",
+        "documentation": {}
+    },
+    {
+        "label": "conf",
+        "importPath": "scapy.all",
+        "description": "scapy.all",
+        "isExtraImport": true,
+        "detail": "scapy.all",
+        "documentation": {}
+    },
+    {
+        "label": "IP",
+        "importPath": "scapy.all",
+        "description": "scapy.all",
+        "isExtraImport": true,
+        "detail": "scapy.all",
+        "documentation": {}
+    },
+    {
+        "label": "BackupManager",
+        "kind": 6,
+        "importPath": "core.backup_manager",
+        "description": "core.backup_manager",
+        "peekOfCode": "class BackupManager:\n    \"\"\"\n    Automates periodic backups of a directory and prunes old backups.\n    - source_dir: directory to back up (e.g. \"logs\")\n    - backup_dir: where to store archives (e.g. \"backups\")\n    - retention_days: how many days to keep backups\n    - interval_hours: how often to run a backup (default: 24h)\n    \"\"\"\n    def __init__(self,\n                 source_dir=\"logs\",",
+        "detail": "core.backup_manager",
+        "documentation": {}
+    },
+    {
+        "label": "DeviceWatcher",
+        "kind": 6,
+        "importPath": "core.device_watcher",
+        "description": "core.device_watcher",
+        "peekOfCode": "class DeviceWatcher:\n    def __init__(self, allowed_ifaces):\n        self.allowed_ifaces = allowed_ifaces\n        self.known_ifaces = set(self._get_wifi_interfaces())\n        self.os_type = platform.system().lower()\n        print(f\"[DeviceWatcher] Started ({self.os_type}); allowed_ifaces={self.allowed_ifaces}\")\n        self._create_log_file()\n    def _create_log_file(self):\n        if not os.path.exists(LOG_FILE):\n            with open(LOG_FILE, 'w') as f:",
+        "detail": "core.device_watcher",
+        "documentation": {}
+    },
+    {
+        "label": "create_tray_icon",
+        "kind": 2,
+        "importPath": "core.device_watcher",
+        "description": "core.device_watcher",
+        "peekOfCode": "def create_tray_icon():\n    def on_exit(icon, item):\n        print(\"Shutting down Firewall gAmA Device Watcher.\")\n        icon.stop()\n    image = Image.new('RGB', (64, 64), color='red')\n    d = ImageDraw.Draw(image)\n    d.ellipse((10, 10, 54, 54), fill='white')\n    d.text((18, 25), \"FW\", fill='black')\n    menu = pystray.Menu(pystray.MenuItem(\"Exit\", on_exit))\n    icon = pystray.Icon(\"Firewall gAmA\", image, \"Firewall gAmA\", menu)",
+        "detail": "core.device_watcher",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_INTERFACES",
+        "kind": 5,
+        "importPath": "core.device_watcher",
+        "description": "core.device_watcher",
+        "peekOfCode": "ALLOWED_INTERFACES = {'Wi-Fi'}\nLOG_FILE = \"blocked_devices.log\"\nSOUND_FILE = \"assets/alert.wav\"  # Replace with your custom sound path\nclass DeviceWatcher:\n    def __init__(self, allowed_ifaces):\n        self.allowed_ifaces = allowed_ifaces\n        self.known_ifaces = set(self._get_wifi_interfaces())\n        self.os_type = platform.system().lower()\n        print(f\"[DeviceWatcher] Started ({self.os_type}); allowed_ifaces={self.allowed_ifaces}\")\n        self._create_log_file()",
+        "detail": "core.device_watcher",
+        "documentation": {}
+    },
+    {
+        "label": "LOG_FILE",
+        "kind": 5,
+        "importPath": "core.device_watcher",
+        "description": "core.device_watcher",
+        "peekOfCode": "LOG_FILE = \"blocked_devices.log\"\nSOUND_FILE = \"assets/alert.wav\"  # Replace with your custom sound path\nclass DeviceWatcher:\n    def __init__(self, allowed_ifaces):\n        self.allowed_ifaces = allowed_ifaces\n        self.known_ifaces = set(self._get_wifi_interfaces())\n        self.os_type = platform.system().lower()\n        print(f\"[DeviceWatcher] Started ({self.os_type}); allowed_ifaces={self.allowed_ifaces}\")\n        self._create_log_file()\n    def _create_log_file(self):",
+        "detail": "core.device_watcher",
+        "documentation": {}
+    },
+    {
+        "label": "SOUND_FILE",
+        "kind": 5,
+        "importPath": "core.device_watcher",
+        "description": "core.device_watcher",
+        "peekOfCode": "SOUND_FILE = \"assets/alert.wav\"  # Replace with your custom sound path\nclass DeviceWatcher:\n    def __init__(self, allowed_ifaces):\n        self.allowed_ifaces = allowed_ifaces\n        self.known_ifaces = set(self._get_wifi_interfaces())\n        self.os_type = platform.system().lower()\n        print(f\"[DeviceWatcher] Started ({self.os_type}); allowed_ifaces={self.allowed_ifaces}\")\n        self._create_log_file()\n    def _create_log_file(self):\n        if not os.path.exists(LOG_FILE):",
+        "detail": "core.device_watcher",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 2,
+        "importPath": "core.inactivity_monitor",
+        "description": "core.inactivity_monitor",
+        "peekOfCode": "def log(msg: str):\n    ts = datetime.now().isoformat(sep=' ', timespec='seconds')\n    line = f\"[{ts}] {msg}\"\n    print(line)\n    # write in UTF-8 so emojis don’t error on Windows\n    with open(LOG_FILE, \"a\", encoding=\"utf-8\") as f:\n        f.write(line + \"\\n\")\ndef notify(title: str, message: str):\n    notification.notify(title=title, message=message, timeout=5)\ndef play_sound():",
+        "detail": "core.inactivity_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "notify",
+        "kind": 2,
+        "importPath": "core.inactivity_monitor",
+        "description": "core.inactivity_monitor",
+        "peekOfCode": "def notify(title: str, message: str):\n    notification.notify(title=title, message=message, timeout=5)\ndef play_sound():\n    if os.path.exists(SOUND_FILE):\n        try:\n            playsound(SOUND_FILE)\n        except Exception as e:\n            print(f\"[Sound Error] {e}\")\ndef block_ip(ip: str):\n    \"\"\"Block `ip` at the host firewall.\"\"\"",
+        "detail": "core.inactivity_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "play_sound",
+        "kind": 2,
+        "importPath": "core.inactivity_monitor",
+        "description": "core.inactivity_monitor",
+        "peekOfCode": "def play_sound():\n    if os.path.exists(SOUND_FILE):\n        try:\n            playsound(SOUND_FILE)\n        except Exception as e:\n            print(f\"[Sound Error] {e}\")\ndef block_ip(ip: str):\n    \"\"\"Block `ip` at the host firewall.\"\"\"\n    os_type = platform.system().lower()\n    try:",
+        "detail": "core.inactivity_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "block_ip",
+        "kind": 2,
+        "importPath": "core.inactivity_monitor",
+        "description": "core.inactivity_monitor",
+        "peekOfCode": "def block_ip(ip: str):\n    \"\"\"Block `ip` at the host firewall.\"\"\"\n    os_type = platform.system().lower()\n    try:\n        if os_type == \"windows\":\n            # inbound\n            subprocess.run([\n                \"netsh\", \"advfirewall\", \"firewall\", \"add\", \"rule\",\n                f\"name=Firewall gAmA block {ip}\",\n                \"dir=in\", \"action=block\", f\"remoteip={ip}\"",
+        "detail": "core.inactivity_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "packet_handler",
+        "kind": 2,
+        "importPath": "core.inactivity_monitor",
+        "description": "core.inactivity_monitor",
+        "peekOfCode": "def packet_handler(pkt):\n    if IP in pkt:\n        now = datetime.now()\n        for addr in (pkt[IP].src, pkt[IP].dst):\n            last_activity[addr] = now\ndef start_sniffer():\n    iface = conf.iface\n    log(f\"Starting packet sniffer on interface: {iface}\")\n    sniff(prn=packet_handler, store=False, filter=\"ip\", iface=iface)\n# ─── ARP Discovery & Idle Checker ─────────────────────────────────────────────",
+        "detail": "core.inactivity_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "start_sniffer",
+        "kind": 2,
+        "importPath": "core.inactivity_monitor",
+        "description": "core.inactivity_monitor",
+        "peekOfCode": "def start_sniffer():\n    iface = conf.iface\n    log(f\"Starting packet sniffer on interface: {iface}\")\n    sniff(prn=packet_handler, store=False, filter=\"ip\", iface=iface)\n# ─── ARP Discovery & Idle Checker ─────────────────────────────────────────────\ndef discover_devices():\n    \"\"\"Return a set of IPs discovered via ARP table (cross‐platform).\"\"\"\n    ips = set()\n    os_type = platform.system().lower()\n    try:",
+        "detail": "core.inactivity_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "discover_devices",
+        "kind": 2,
+        "importPath": "core.inactivity_monitor",
+        "description": "core.inactivity_monitor",
+        "peekOfCode": "def discover_devices():\n    \"\"\"Return a set of IPs discovered via ARP table (cross‐platform).\"\"\"\n    ips = set()\n    os_type = platform.system().lower()\n    try:\n        if os_type == \"windows\":\n            out = subprocess.check_output([\"arp\", \"-a\"], text=True)\n            for line in out.splitlines():\n                line = line.strip()\n                if not line or line.startswith(\"Interface\") or line.startswith(\"Internet\"):",
+        "detail": "core.inactivity_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "idle_checker",
+        "kind": 2,
+        "importPath": "core.inactivity_monitor",
+        "description": "core.inactivity_monitor",
+        "peekOfCode": "def idle_checker():\n    while True:\n        now = datetime.now()\n        ips = discover_devices()\n        for ip in ips:\n            # skip broadcast\n            if ip == \"255.255.255.255\":\n                continue\n            # seed new devices\n            if ip not in last_activity:",
+        "detail": "core.inactivity_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "create_tray_icon",
+        "kind": 2,
+        "importPath": "core.inactivity_monitor",
+        "description": "core.inactivity_monitor",
+        "peekOfCode": "def create_tray_icon():\n    def on_exit(icon, item):\n        log(\"Shutting down Inactivity Monitor.\")\n        icon.stop()\n        os._exit(0)\n    img = Image.new('RGB', (64, 64), color='red')\n    d = ImageDraw.Draw(img)\n    d.ellipse((8, 8, 56, 56), fill='white')\n    d.text((18, 25), \"ID\", fill='black')\n    menu = pystray.Menu(pystray.MenuItem(\"Exit\", on_exit))",
+        "detail": "core.inactivity_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "AGGRESSIVE_MODE",
+        "kind": 5,
+        "importPath": "core.inactivity_monitor",
+        "description": "core.inactivity_monitor",
+        "peekOfCode": "AGGRESSIVE_MODE = True        # True to block at host‐firewall, False = safe mode\n# ─── Globals ──────────────────────────────────────────────────────────────────\nlast_activity = {}   # IP → datetime of last seen packet or seed time\nblocked_ips   = set()\n# ─── Helpers ──────────────────────────────────────────────────────────────────\ndef log(msg: str):\n    ts = datetime.now().isoformat(sep=' ', timespec='seconds')\n    line = f\"[{ts}] {msg}\"\n    print(line)\n    # write in UTF-8 so emojis don’t error on Windows",
+        "detail": "core.inactivity_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "last_activity",
+        "kind": 5,
+        "importPath": "core.inactivity_monitor",
+        "description": "core.inactivity_monitor",
+        "peekOfCode": "last_activity = {}   # IP → datetime of last seen packet or seed time\nblocked_ips   = set()\n# ─── Helpers ──────────────────────────────────────────────────────────────────\ndef log(msg: str):\n    ts = datetime.now().isoformat(sep=' ', timespec='seconds')\n    line = f\"[{ts}] {msg}\"\n    print(line)\n    # write in UTF-8 so emojis don’t error on Windows\n    with open(LOG_FILE, \"a\", encoding=\"utf-8\") as f:\n        f.write(line + \"\\n\")",
+        "detail": "core.inactivity_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "Logger",
+        "kind": 6,
+        "importPath": "core.logger",
+        "description": "core.logger",
+        "peekOfCode": "class Logger:\n    \"\"\"\n    Per‑user daily logs with retention and size‑cap enforcement.\n    - log_dir: directory to store logs\n    - retention_days: how many days to keep log files\n    - max_size_gb: max bytes per user‑per‑day log before rotation\n    - warning_threshold: fraction of max_size to warn at (e.g. 0.9 = 90%)\n    \"\"\"\n    def __init__(self,\n                 log_dir=\"logs\",",
+        "detail": "core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "SessionManager",
+        "kind": 6,
+        "importPath": "core.session_manager",
+        "description": "core.session_manager",
+        "peekOfCode": "class SessionManager:\n    \"\"\"\n    Tracks user sessions and enforces an idle-timeout policy.\n    - idle_timeout: seconds of inactivity before disconnect (default 3600s = 1h)\n    - warning_before: seconds before timeout to issue a warning (default 300s = 5min)\n    - check_interval: how often (in seconds) to scan sessions (default 300s = 5min)\n    \"\"\"\n    def __init__(self, idle_timeout=3600, warning_before=300, check_interval=300):\n        self.idle_timeout = timedelta(seconds=idle_timeout)\n        self.warning_before = timedelta(seconds=warning_before)",
+        "detail": "core.session_manager",
+        "documentation": {}
+    }
+]
